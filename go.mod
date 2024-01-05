@@ -1,3 +1,3 @@
-module github.com/JackGod001/goRand/v1
+module github.com/JackGod001/goRand
 
 go 1.21.5
